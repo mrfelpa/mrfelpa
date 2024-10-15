@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I have experience in different roles, such as Full Stack Developer, technical support and server infrastructure and Cybersecurity Support. In my free time, I work on projects, write scientific articles and am finishing my postgraduate degree in mathematical physics.
+In my free time, I work on projects, write scientific articles and am finishing my postgraduate degree in mathematical physics.
 
 <div align="center">
   <h2 style="color:lightblue">⚒️ Programming Languages ⚒️</h2>
